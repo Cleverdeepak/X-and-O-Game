@@ -1,0 +1,15 @@
+ table {
+        top: calc(50vh - 50vmin);
+        left: calc(50vw - 50vmin);
+        position: relative;
+        border-spacing: 1vmin;
+      }
+      td {
+        width: 31vmin;
+        height: 31vmin;
+        background-color: #534b45;
+      }
+      svg {
+        width: 100%;
+        height: 100%;
+      }
